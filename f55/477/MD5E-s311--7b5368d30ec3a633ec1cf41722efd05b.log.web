@@ -1,0 +1,8 @@
+1790705388s 1 https://dandiarchive.s3.amazonaws.com/zarr/215fbd08-4105-4463-888d-2e6ffa299ed4/intervals/spontaneous_presentations/start_time/.zarray?versionId=vFunOjkqkiEOHVb3PyEQguNy.ZlkHoK2
+1790705388s 1 https://api.dandiarchive.org/api/zarr/215fbd08-4105-4463-888d-2e6ffa299ed4/files?prefix=intervals%2Fspontaneous_presentations%2Fstart_time%2F.zarray&download=true
+1790705388s 1 https://dandiarchive.s3.amazonaws.com/zarr/215fbd08-4105-4463-888d-2e6ffa299ed4/intervals/spontaneous_presentations/start_time_uncorrected/.zarray?versionId=oeRFCVKjlhusratCBZ7jppt7u1W8W03c
+1790705388s 1 https://api.dandiarchive.org/api/zarr/215fbd08-4105-4463-888d-2e6ffa299ed4/files?prefix=intervals%2Fspontaneous_presentations%2Fstart_time_uncorrected%2F.zarray&download=true
+1790705388s 1 https://dandiarchive.s3.amazonaws.com/zarr/215fbd08-4105-4463-888d-2e6ffa299ed4/intervals/spontaneous_presentations/stop_time/.zarray?versionId=fcmLwOEXYMI_6lTcr.67EXDN3Et1sEn2
+1790705388s 1 https://api.dandiarchive.org/api/zarr/215fbd08-4105-4463-888d-2e6ffa299ed4/files?prefix=intervals%2Fspontaneous_presentations%2Fstop_time%2F.zarray&download=true
+1790705388s 1 https://dandiarchive.s3.amazonaws.com/zarr/215fbd08-4105-4463-888d-2e6ffa299ed4/intervals/spontaneous_presentations/stop_time_uncorrected/.zarray?versionId=5ksS8EBq.6Hp6QnzRE.YiOEAQoIu21uz
+1790705388s 1 https://api.dandiarchive.org/api/zarr/215fbd08-4105-4463-888d-2e6ffa299ed4/files?prefix=intervals%2Fspontaneous_presentations%2Fstop_time_uncorrected%2F.zarray&download=true

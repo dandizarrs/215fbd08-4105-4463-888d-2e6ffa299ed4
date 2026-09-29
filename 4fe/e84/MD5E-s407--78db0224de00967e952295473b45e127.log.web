@@ -1,0 +1,4 @@
+1790705398s 1 https://dandiarchive.s3.amazonaws.com/zarr/215fbd08-4105-4463-888d-2e6ffa299ed4/processing/VISp_1/dff_timeseries/dff_timeseries/rois/0?versionId=r5Fn.hGwDbhnZwZ1I_v7A.OEnKAeLD7P
+1790705398s 1 https://api.dandiarchive.org/api/zarr/215fbd08-4105-4463-888d-2e6ffa299ed4/files?prefix=processing%2FVISp_1%2Fdff_timeseries%2Fdff_timeseries%2Frois%2F0&download=true
+1790705399s 1 https://dandiarchive.s3.amazonaws.com/zarr/215fbd08-4105-4463-888d-2e6ffa299ed4/processing/VISp_1/image_segmentation/roi_table/id/0?versionId=D_5yaUW3T2PV6q6bC8MiFwHX1wcx5C1h
+1790705399s 1 https://api.dandiarchive.org/api/zarr/215fbd08-4105-4463-888d-2e6ffa299ed4/files?prefix=processing%2FVISp_1%2Fimage_segmentation%2Froi_table%2Fid%2F0&download=true
